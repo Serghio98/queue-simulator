@@ -1,0 +1,77 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Server",
+            "request": "launch",
+            "mainClass": "Server",
+            "projectName": "SimulatoreJava-BCNNcapitolo4_494049a3"
+        },
+        {
+            "type": "java",
+            "name": "Server",
+            "request": "launch",
+            "mainClass": "Server",
+            "projectName": "SimulatoreJava-BCNNcapitolo4_1f94e72c"
+        },
+        {
+            "type": "java",
+            "name": "Server",
+            "request": "launch",
+            "mainClass": "Server",
+            "projectName": "SimulatoreJava-BCNNcapitolo4_b009a431"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "BlockModel",
+            "request": "launch",
+            "mainClass": "BlockModel",
+            "projectName": "SimulatoreJava-BCNNcapitolo4_b009a431"
+        },
+        {
+            "type": "java",
+            "name": "DeleteModel",
+            "request": "launch",
+            "mainClass": "DeleteModel",
+            "projectName": "SimulatoreJava-BCNNcapitolo4_b009a431"
+        },
+        {
+            "type": "java",
+            "name": "Sim",
+            "request": "launch",
+            "mainClass": "Sim",
+            "projectName": "SimulatoreJava-BCNNcapitolo4_b009a431"
+        },
+        {
+            "type": "java",
+            "name": "Rng",
+            "request": "launch",
+            "mainClass": "utils.Rng",
+            "projectName": "SimulatoreJava-BCNNcapitolo4_b009a431"
+        },
+        {
+            "type": "java",
+            "name": "Rngs",
+            "request": "launch",
+            "mainClass": "utils.Rngs",
+            "projectName": "SimulatoreJava-BCNNcapitolo4_b009a431"
+        },
+        {
+            "type": "java",
+            "name": "Funcs",
+            "request": "launch",
+            "mainClass": "funcs.Funcs",
+            "projectName": "SimulatoreJava-BCNNcapitolo4_b009a431"
+        }
+    ]
+}
